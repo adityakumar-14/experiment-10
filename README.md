@@ -1,4 +1,3 @@
-# Experiment-10
 
 # Experiment-10
 **Aim:** <br>
